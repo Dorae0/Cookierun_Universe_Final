@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Cookies">
+      <UniqueIdentifier>{a20766e0-3fa7-4d8e-a810-7d171dc26108}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Cookies">
+      <UniqueIdentifier>{c465b959-fbe5-449b-a506-beebf62ae0a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Mobs">
+      <UniqueIdentifier>{7f95cf3d-89c2-4a7e-9dda-454dc0a13eea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Mobs">
+      <UniqueIdentifier>{6a301084-4034-49ce-bf48-662edb1f5f88}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CookieMove.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DoubleBuffering.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CCookie.cpp">
+      <Filter>소스 파일\Cookies</Filter>
+    </ClCompile>
+    <ClCompile Include="CBraveCookie.cpp">
+      <Filter>소스 파일\Cookies</Filter>
+    </ClCompile>
+    <ClCompile Include="CMob.cpp">
+      <Filter>소스 파일\Mobs</Filter>
+    </ClCompile>
+    <ClCompile Include="CYellowBee.cpp">
+      <Filter>소스 파일\Mobs</Filter>
+    </ClCompile>
+    <ClCompile Include="CCottoncandyCookie.cpp">
+      <Filter>소스 파일\Cookies</Filter>
+    </ClCompile>
+    <ClCompile Include="CPistachioCookie.cpp">
+      <Filter>소스 파일\Cookies</Filter>
+    </ClCompile>
+    <ClCompile Include="CPitayaCookie.cpp">
+      <Filter>소스 파일\Cookies</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CookieMove.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DoubleBuffering.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CCookie.h">
+      <Filter>헤더 파일\Cookies</Filter>
+    </ClInclude>
+    <ClInclude Include="CBraveCookie.h">
+      <Filter>헤더 파일\Cookies</Filter>
+    </ClInclude>
+    <ClInclude Include="CMob.h">
+      <Filter>헤더 파일\Mobs</Filter>
+    </ClInclude>
+    <ClInclude Include="CYellowBee.h">
+      <Filter>헤더 파일\Mobs</Filter>
+    </ClInclude>
+    <ClInclude Include="CCottoncandyCookie.h">
+      <Filter>헤더 파일\Cookies</Filter>
+    </ClInclude>
+    <ClInclude Include="CPistachioCookie.h">
+      <Filter>헤더 파일\Cookies</Filter>
+    </ClInclude>
+    <ClInclude Include="CPitayaCookie.h">
+      <Filter>헤더 파일\Cookies</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

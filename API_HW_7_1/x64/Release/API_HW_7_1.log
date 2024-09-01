@@ -1,0 +1,21 @@
+﻿  CBraveCookie.cpp
+  CCookie.cpp
+  CMob.cpp
+  CookieMove.cpp
+  CYellowBee.cpp
+  DoubleBuffering.cpp
+C:\DH\HW\API\API_HW_7_1 (4)\API_HW_7_1\DoubleBuffering.cpp(96,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DH\HW\API\API_HW_7_1 (4)\API_HW_7_1\DoubleBuffering.cpp(96,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+C:\DH\HW\API\API_HW_7_1 (4)\API_HW_7_1\main.cpp(52,46): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DH\HW\API\API_HW_7_1 (4)\API_HW_7_1\main.cpp(98,67): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\DH\HW\API\API_HW_7_1 (4)\API_HW_7_1\main.cpp(98,136): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\DH\HW\API\API_HW_7_1 (4)\API_HW_7_1\main.cpp(102,74): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DH\HW\API\API_HW_7_1 (4)\API_HW_7_1\main.cpp(112,36): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DH\HW\API\API_HW_7_1 (4)\API_HW_7_1\main.cpp(119,16): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DH\HW\API\API_HW_7_1 (4)\API_HW_7_1\main.cpp(150,50): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': 인수 4을(를) 'void (__cdecl *)(HWND,UINT,UINT,DWORD)'에서 'TIMERPROC'(으)로 변환할 수 없습니다.
+C:\DH\HW\API\API_HW_7_1 (4)\API_HW_7_1\main.cpp(150,38): message : 대상 형식과 일치하는 범위에 이름이 같은 함수가 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(7037,1): message : 'SetTimer' 선언을 참조하십시오.
+C:\DH\HW\API\API_HW_7_1 (4)\API_HW_7_1\main.cpp(352,189): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DH\HW\API\API_HW_7_1 (4)\API_HW_7_1\main.cpp(352,121): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DH\HW\API\API_HW_7_1 (4)\API_HW_7_1\main.cpp(352,89): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.

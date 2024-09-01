@@ -1,0 +1,21 @@
+﻿  main.cpp
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(89,46): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(145,68): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(145,137): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(149,75): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(155,74): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(155,149): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(159,81): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(165,72): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(165,145): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(169,79): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(175,69): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(175,139): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(179,76): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(189,37): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(505,14): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(432,8): warning C4101: 'strBuff' :참조되지 않은 지역 변수입니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(639,189): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(639,121): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\HW\API_HW_7_1 (Final)\API_HW_7_1\main.cpp(639,89): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  API_HW_7_1.vcxproj -> E:\HW\API_HW_7_1 (Final)\Debug\API_HW_7_1.exe
