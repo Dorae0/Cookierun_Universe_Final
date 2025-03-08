@@ -1,7 +1,7 @@
 #include "CookieMove.h"
 #include "CCookie.h"
 
-extern int x, y, Vy, Ay, Cstate, GroundY, Cost, GameState, EnterState, EnterCooldown, NumState;
+extern int x, y, Vy, Ay, Cstate, GroundY, Cost, GameState, EnterState, EnterCooldown, NumState;;
 extern int PowerUpStack[4];
 extern COOLDOWN		CooldownState[10];
 extern enum GameState
@@ -71,8 +71,8 @@ void __KeyProc(HWND hWnd)
 			{
 				CooldownState[COOKIETYPE_BRAVECOOKIE].CookieButtonState = true;
 				CooldownState[COOKIETYPE_BRAVECOOKIE].CookieCooldownState = true;
+				NumState = 1;
 			}
-			NumState = 1;
 		}
 
 		if (GetKeyState(0x32) & 0x80 || GetKeyState(VK_NUMPAD2) & 0x80)
@@ -81,8 +81,8 @@ void __KeyProc(HWND hWnd)
 			{
 				CooldownState[COOKIETYPE_COTTONCANDYCOOKIE].CookieButtonState = true;
 				CooldownState[COOKIETYPE_COTTONCANDYCOOKIE].CookieCooldownState = true;
+				NumState = 1;
 			}
-			NumState = 1;
 		}
 
 		if (GetKeyState(0x33) & 0x80 || GetKeyState(VK_NUMPAD3) & 0x80)
@@ -91,8 +91,8 @@ void __KeyProc(HWND hWnd)
 			{
 				CooldownState[COOKIETYPE_PISTACHIOCOOKIE].CookieButtonState = true;
 				CooldownState[COOKIETYPE_PISTACHIOCOOKIE].CookieCooldownState = true;
+				NumState = 1;
 			}
-			NumState = 1;
 		}
 
 		if (GetKeyState(0x34) & 0x80 || GetKeyState(VK_NUMPAD4) & 0x80)
@@ -101,8 +101,8 @@ void __KeyProc(HWND hWnd)
 			{
 				CooldownState[COOKIETYPE_PITAYACOOKIE].CookieButtonState = true;
 				CooldownState[COOKIETYPE_PITAYACOOKIE].CookieCooldownState = true;
+				NumState = 1;
 			}
-			NumState = 1;
 		}
 	}
 

@@ -22,7 +22,7 @@ LPSTR lpszClass = "[ CookieRun : Universe ]";
 int GameState = 0;				// 게임 화면
 int EnterState = 0;
 int NumState = 0;
-int EnterCooldown = 0;			
+int EnterCooldown = 0;
 
 int g_nFrame = 0;				// 화면 갱신 카운트
 int g_nMonIdx = 0;				// 
@@ -142,46 +142,30 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance
 		{
 			if (GameState == 1)
 			{
-				if (CooldownState[COOKIETYPE_BRAVECOOKIE].CookieButtonState == true && CooldownState[COOKIETYPE_BRAVECOOKIE].CookieCooldownState == true)
-				{
-					while (Cookies[CookieCount] != NULL) { CookieCount++; }
-					Cookies[CookieCount] = new CBraveCookie;
-					CooldownState[COOKIETYPE_BRAVECOOKIE].m_nCooldownNow = GetTickCount64();
-					CooldownState[COOKIETYPE_BRAVECOOKIE].CookieButtonState = false;
-					if (CookieCount >= 100) CookieCount = 0;
-					Cost -= 10;
-				}
-
-				if (CooldownState[COOKIETYPE_COTTONCANDYCOOKIE].CookieButtonState == true && CooldownState[COOKIETYPE_COTTONCANDYCOOKIE].CookieCooldownState == true)
-				{
-					while (Cookies[CookieCount] != NULL) { CookieCount++; }
-					Cookies[CookieCount] = new CCottoncandyCookie;
-					CooldownState[COOKIETYPE_COTTONCANDYCOOKIE].m_nCooldownNow = GetTickCount64();
-					CooldownState[COOKIETYPE_COTTONCANDYCOOKIE].CookieButtonState = false;
-					if (CookieCount >= 100) CookieCount = 0;
-					Cost -= 20;
-				}
-
-				if (CooldownState[COOKIETYPE_PISTACHIOCOOKIE].CookieButtonState == true && CooldownState[COOKIETYPE_PISTACHIOCOOKIE].CookieCooldownState == true)
-				{
-					while (Cookies[CookieCount] != NULL) { CookieCount++; }
-					Cookies[CookieCount] = new CPistachioCookie;
-					CooldownState[COOKIETYPE_PISTACHIOCOOKIE].m_nCooldownNow = GetTickCount64();
-					CooldownState[COOKIETYPE_PISTACHIOCOOKIE].CookieButtonState = false;
-					if (CookieCount >= 100) CookieCount = 0;
-					Cost -= 25;
-				}
-
-				if (CooldownState[COOKIETYPE_PITAYACOOKIE].CookieButtonState == true && CooldownState[COOKIETYPE_PITAYACOOKIE].CookieCooldownState == true)
-				{
-					while (Cookies[CookieCount] != NULL) { CookieCount++; }
-					Cookies[CookieCount] = new CPitayaCookie;
-					CooldownState[COOKIETYPE_PITAYACOOKIE].m_nCooldownNow = GetTickCount64();
-					CooldownState[COOKIETYPE_PITAYACOOKIE].CookieButtonState = false;
-					if (CookieCount >= 100) CookieCount = 0;
-					Cost -= 50;
-				}
-
+				for(int i = COOKIETYPE_BRAVECOOKIE; i < COOKIETYPE_MAX; i++)
+					if (CooldownState[i].CookieButtonState == true && CooldownState[i].CookieCooldownState == true)
+					{
+						while (Cookies[CookieCount] != NULL) { CookieCount++; }
+						switch (i)
+						{
+						case COOKIETYPE_BRAVECOOKIE:
+							Cookies[CookieCount] = new CBraveCookie;
+							break;
+						case COOKIETYPE_COTTONCANDYCOOKIE:
+							Cookies[CookieCount] = new CCottoncandyCookie;
+							break;
+						case COOKIETYPE_PISTACHIOCOOKIE:
+							Cookies[CookieCount] = new CPistachioCookie;
+							break;
+						case COOKIETYPE_PITAYACOOKIE:
+							Cookies[CookieCount] = new CPitayaCookie;
+							break;
+						}
+						CooldownState[i].m_nCooldownNow = GetTickCount64();
+						CooldownState[i].CookieButtonState = false;
+						if (CookieCount >= 100) CookieCount = 0;
+						Cost -= Cookies[CookieCount]->GetStat(STATTYPE_COST);
+					}
 				if (MobCooldownState == false)
 				{
 					while (Mobs[MobCount] != NULL) { MobCount++; }
@@ -385,7 +369,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 
 			for (int i = 0; i < 101; i++)
 			{
-				if (Cookies[i] != NULL && Cookies[i]->GetStat(STATTYPE_FAINTANI) == g_objCookie[Cookies[i]->GetStat(STATTYPE_COOKIETYPE)].nAniFaintMax)
+				if (Cookies[i] != NULL && Cookies[i]->GetStat(STATTYPE_COOKIESTATE) >= 0 && Cookies[i]->GetStat(STATTYPE_FAINTANI) == g_objCookie[Cookies[i]->GetStat(STATTYPE_COOKIETYPE)].nAniFaintMax)
 				{
 					delete Cookies[i];
 					Cookies[i] = NULL;
@@ -399,7 +383,10 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 
 			for (int i = COOKIETYPE_BRAVECOOKIE; i < COOKIETYPE_MAX; i++)
 				if ((int)(GetTickCount64() - CooldownState[i].m_nCooldownNow) >= CooldownState[i].m_nCooldown)
+				{
 					CooldownState[i].CookieCooldownState = false;
+					CooldownState[i].CookieButtonState = false;
+				}
 
 			if ((int)(GetTickCount64() - MobCooldownNow) >= MobCooldown)
 				MobCooldownState = false;
