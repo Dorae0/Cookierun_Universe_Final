@@ -230,7 +230,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 		// Á¤¹Ðµµ NT : 10ms ( 100 fps )
 		//        98 : 55ms (  18 fps )
 		SetTimer(hWnd, ID_TM_MAINLOOP, 16, MainLoopProc);
-		SetTimer(hWnd, ID_TM_ANIMATION, 80, NULL);
+		SetTimer(hWnd, ID_TM_ANIMATION, 60, NULL);
 
 		return 0;
 
@@ -255,10 +255,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 				g_objCookie[i].nAniAttack++;
 				g_objCookie[i].nAniFaint++;
 				g_objCookie[i].nAniAttackMotion++;
-
-				g_objBoss.nAniIdle++;
-				g_objBoss.nAniAttack++;
-				g_objBoss.nAniFaint++;
 
 				if (g_objCookie[i].nAniWalk > g_objCookie[i].nAniWalkMax - 1)
 					g_objCookie[i].nAniWalk = 0;
@@ -303,8 +299,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 				}
 			}
 
-			g_objTower.nAni++;
+			g_objBoss.nAniIdle++;
+			g_objBoss.nAniAttack++;
+			g_objBoss.nAniFaint++;
 
+			g_objTower.nAni++;
 			g_objMob.nAniIdle++;
 
 			if (g_objBoss.nAniIdle > 4) g_objBoss.nAniIdle = 0;

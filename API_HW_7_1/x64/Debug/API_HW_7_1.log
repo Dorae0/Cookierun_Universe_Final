@@ -1,0 +1,432 @@
+﻿  CBraveCookie.cpp
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CBraveCookie.cpp(13,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CBraveCookie.cpp(14,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CBraveCookie.cpp(15,15): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CBraveCookie.cpp(16,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CCookie.cpp
+  CCottoncandyCookie.cpp
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CCottoncandyCookie.cpp(13,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CCottoncandyCookie.cpp(14,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CCottoncandyCookie.cpp(15,15): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CCottoncandyCookie.cpp(16,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CMob.cpp
+  CookieMove.cpp
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CookieMove.cpp(17,2): warning C4091: 'extern ': 변수를 선언하지 않으면 'GameState' 왼쪽은 무시됩니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CookieMove.cpp(32,34): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CPistachioCookie.cpp
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CPistachioCookie.cpp(13,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CPistachioCookie.cpp(14,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CPistachioCookie.cpp(15,15): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CPistachioCookie.cpp(16,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CPitayaCookie.cpp
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CPitayaCookie.cpp(13,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CPitayaCookie.cpp(14,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CPitayaCookie.cpp(15,15): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CPitayaCookie.cpp(16,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CYellowBee.cpp
+  DoubleBuffering.cpp
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(102,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(102,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(111,55): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(111,31): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(150,10): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': 인수 1을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(150,21): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\fileapi.h(92,1): message : 'CreateFileW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(150,10): message : 인수 목록 '(char *, unsigned long, int, int, int, int, int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(208,19): error C2664: 'HBITMAP __MakeDDBFromDIB(HDC,char *)': 인수 2을(를) 'const char [29]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(208,46): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(139,9): message : '__MakeDDBFromDIB' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(208,19): message : 인수 목록 '(HDC, const char [29])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(213,16): error C2664: 'HBITMAP __MakeDDBFromDIB(HDC,char *)': 인수 2을(를) 'const char [41]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(213,43): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(139,9): message : '__MakeDDBFromDIB' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(213,16): message : 인수 목록 '(HDC, const char [41])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(218,20): error C2664: 'HBITMAP __MakeDDBFromDIB(HDC,char *)': 인수 2을(를) 'const char [40]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(218,47): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(139,9): message : '__MakeDDBFromDIB' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(218,20): message : 인수 목록 '(HDC, const char [40])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(226,3): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(226,12): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(226,3): message : 인수 목록 '(char [256], const char [38], int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(237,3): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(237,12): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(237,3): message : 인수 목록 '(char [256], const char [32], int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(248,3): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(248,12): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(248,3): message : 인수 목록 '(char [256], const char [42], int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(259,3): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(259,12): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(259,3): message : 인수 목록 '(char [256], const char [22], int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(270,3): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(270,12): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(270,3): message : 인수 목록 '(char [256], const char [45], int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(283,4): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(283,13): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(283,4): message : 인수 목록 '(char [256], const char [48], int, int, int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(293,4): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(293,13): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(293,4): message : 인수 목록 '(char [256], const char [50], int, int, int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(303,4): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(303,13): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(303,4): message : 인수 목록 '(char [256], const char [49], int, int, int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(313,4): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(313,13): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(313,4): message : 인수 목록 '(char [256], const char [56], int, int, int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(326,3): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(326,12): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(326,3): message : 인수 목록 '(char [256], const char [46], int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(336,3): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(336,12): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(336,3): message : 인수 목록 '(char [256], const char [42], int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(346,3): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(346,12): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(346,3): message : 인수 목록 '(char [256], const char [47], int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(357,3): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(357,12): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(357,3): message : 인수 목록 '(char [256], const char [44], int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(368,3): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(368,12): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(368,3): message : 인수 목록 '(char [256], const char [32], int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(378,2): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(378,11): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(378,2): message : 인수 목록 '(char [256], const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(389,3): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(389,12): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(389,3): message : 인수 목록 '(char [256], const char [26], int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(401,3): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(401,12): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(401,3): message : 인수 목록 '(char [256], const char [34], int)'을(를) 일치시키는 동안
+  main.cpp
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(17,17): error C2440: '초기화 중': 'const char [25]'에서 'LPSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(17,17): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(89,46): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(121,27): error C2440: '=': 'LPSTR'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(121,27): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(127,9): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': 인수 2을(를) 'LPSTR'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(127,9): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(4433,1): message : 'CreateWindowExW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(127,9): message : 인수 목록 '(long, LPSTR, LPSTR, long, int, int, int, int, int, HMENU, HINSTANCE, int)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(145,68): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(145,137): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(149,75): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(155,74): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(155,149): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(159,81): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(165,72): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(165,145): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(169,79): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(175,69): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(175,139): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(179,76): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(189,37): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(198,16): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(232,3): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': 인수 4을(를) 'void (__cdecl *)(HWND,UINT,UINT,DWORD)'에서 'TIMERPROC'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(232,38): message : 대상 형식과 일치하는 범위에 이름이 같은 함수가 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(7037,1): message : 'SetTimer' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(232,3): message : 인수 목록 '(HWND, int, int, overloaded-function)'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(238,5): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [12]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(238,23): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(238,5): message : 인수 목록 '(const char [12])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(452,18): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(452,36): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(452,18): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(455,18): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(455,36): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(455,18): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(458,18): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(458,36): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(458,18): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(505,14): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(536,20): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(536,38): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(536,20): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(542,20): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(542,38): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(542,20): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(548,20): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(548,38): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(548,20): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(604,13): error C2440: '초기화 중': 'const wchar_t [21]'에서 'TCHAR *'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(604,13): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(609,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(609,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(609,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(612,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(612,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(612,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(615,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(615,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(615,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(629,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(629,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(629,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(632,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(632,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(632,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(639,189): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(639,121): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(639,89): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(640,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(640,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(640,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(643,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(643,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(643,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(646,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(646,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(646,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(653,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(653,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(653,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(664,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(664,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(664,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(667,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(667,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(667,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(670,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(670,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(670,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(673,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(673,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(673,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(676,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(676,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(676,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(682,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(682,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(682,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(685,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(685,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(685,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(688,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(688,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(688,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(691,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(691,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(691,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(694,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(694,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(694,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(700,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(700,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(700,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(703,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(703,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(703,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(706,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(706,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(706,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(709,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(709,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(709,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(712,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(712,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(712,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(718,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(718,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(718,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(721,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(721,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(721,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(724,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(724,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(724,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(727,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(727,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(727,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(730,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(730,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(730,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(768,18): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(768,36): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(768,18): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(782,18): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(782,36): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(782,18): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(795,17): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(795,35): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(795,17): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(799,17): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(799,35): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(799,17): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(812,17): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(812,35): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(812,17): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(879,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(879,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(879,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(929,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(929,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(929,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(932,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(932,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(932,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(937,17): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(937,35): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(937,17): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(941,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(941,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(941,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(944,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(944,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(944,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(949,17): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(949,35): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(949,17): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(953,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(953,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(953,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(956,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(956,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(956,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(961,17): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(961,35): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(961,17): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(965,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(965,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(965,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(968,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(968,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(968,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(973,17): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(973,35): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(973,17): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(982,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(982,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(982,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(985,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(985,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(985,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(990,17): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(990,35): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(990,17): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(994,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(994,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(994,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(997,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(997,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(997,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1000,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1000,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1000,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1005,17): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1005,35): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1005,17): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1009,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1009,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1009,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1012,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1012,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1012,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1015,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1015,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1015,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1020,17): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1020,35): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1020,17): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1024,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1024,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1024,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1027,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1027,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1027,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1030,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1030,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1030,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1035,17): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1035,35): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1035,17): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1039,16): error C2664: 'void OutputDebugStringW(LPCWSTR)': 인수 1을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1039,34): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\debugapi.h(61,1): message : 'OutputDebugStringW' 선언을 참조하십시오.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(1039,16): message : 인수 목록 '(const char [19])'을(를) 일치시키는 동안
+  코드를 생성하고 있습니다...
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CMob.cpp(44): warning C4715: 'CMob::GetStat': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CCookie.cpp(54): warning C4715: 'CCookie::GetStat': 모든 제어 경로에서 값을 반환하지는 않습니다.
