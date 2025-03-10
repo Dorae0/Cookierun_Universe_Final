@@ -6,6 +6,13 @@
 
 <br>
 
+## 📝 [목차](#index) <a name = "index"></a>
+
+- [🎨 스크린샷](#screenshots)
+- [🚩 게임 컨셉](#concept)
+- [🎮 다운로드 방법](#download)
+- [🖥️ 기술 스택](#stacks)
+
 ## 🎨 스크린샷 <a name = "screenshots"></a>
 
 <br>
@@ -28,7 +35,7 @@
 ![image](https://github.com/user-attachments/assets/380f3bec-ba75-40b7-af51-fcbbdcfba7ec)
 <br><br>
 
-## 🚩 게임 컨셉 <a name = "idea"></a>
+## 🚩 게임 컨셉 <a name = "concept"></a>
 - 간단한 디펜스 게임입니다.
 - 쿠키런 IP를 차용해서 제작했습니다.
 - Windows API를 사용하여 제작했습니다.
