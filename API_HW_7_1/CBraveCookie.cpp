@@ -9,7 +9,7 @@ CBraveCookie::CBraveCookie()
 
 void CBraveCookie::Init()
 {
-	m_nMaxHP = 100;
+	m_nMaxHP = 100 * (1 + PowerUpStack[POWERUP_HP] * 0.5);
 	m_nHP = 100 * (1 + PowerUpStack[POWERUP_HP] * 0.5);
 	m_nPower = 30 * (1 + PowerUpStack[POWERUP_POWER] * 0.5);
 	m_nSpeed = 5 * (1 + PowerUpStack[POWERUP_SPEED] * 0.5);

@@ -297,6 +297,8 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 			if (g_objTower.nAni > 4) g_objTower.nAni = 0;
 
 			// 쿠키, 몹 최선방 몹 정하는 로직
+			CheckCookieVanguard();
+			CheckMobVanguard();
 
 			// Attack 상태 로직
 
