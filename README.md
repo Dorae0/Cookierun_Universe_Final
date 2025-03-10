@@ -15,9 +15,12 @@
 ![image](https://github.com/user-attachments/assets/1827760d-8eb3-493d-bba8-8ab3d8488606)
 
 ### 2. Code > Download ZIP 클릭
-![image](https://github.com/user-attachments/assets/6fdf67b9-adba-46bf-98af-03fbb5291d46)
+![image](https://github.com/user-attachments/assets/1655ada0-40a9-49ab-af6f-da77cd5ef3a1)
 
+### 3. 압축 해제 후 Cookierun Universe 실행
+![image](https://github.com/user-attachments/assets/4dbd221b-d927-4c4e-a068-6af494c69eaf)
 
+### 3 - 1. 
 
 ### Technologies
 #### Common stacks
