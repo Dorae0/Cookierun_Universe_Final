@@ -1,4 +1,15 @@
-## Cookierun : Universe
+# Cookierun : Universe
+
+<br>
+
+## 🚩 게임 컨셉 <a name = "idea"></a>
+- 간단한 디펜스 게임입니다.
+- 쿠키런 IP를 차용해서 제작했습니다.
+- Windows API를 사용하여 제작했습니다.
+
+<br>
+
+## 🎮 다운로드 <a name = "download"></a>
 
 ### Technologies
 #### Common stacks
@@ -9,3 +20,5 @@
 
 #### Languages
 <img alt="CPlusPlus" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=CPlusPlus&logoColor=white"> <img alt="WindowsAPI" src ="https://img.shields.io/badge/Windows API-00599C.svg?&style=for-the-badge&logo=CPlusPlus&logoColor=white">
+
+
