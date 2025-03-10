@@ -14,6 +14,7 @@
 - [🚩 게임 컨셉](#concept)
 - [🎮 다운로드 방법](#download)
 - [🖥️ 기술 스택](#stacks)
+- [⚙️ 프로젝트 아키텍처](#architecture) 
 - [🧑‍💻 코드](#code)
 
 <br>
@@ -84,6 +85,40 @@
 <img alt="CPlusPlus" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=CPlusPlus&logoColor=white"> <img alt="WindowsAPI" src ="https://img.shields.io/badge/Windows API-00599C.svg?&style=for-the-badge&logo=CPlusPlus&logoColor=white">
 <br>
 
+## [⚙️](#index) 프로젝트 아키텍처 <a name = "architecture"></a>
+
+```cpp
+프로젝트 루트
+ ├── 소스 파일
+ │   ├── Cookies                     // 쿠키 캐릭터 관련 클래스
+ │   │   ├── CBraveCookie.cpp        // 용감한 쿠키
+ │   │   ├── CCookie.cpp             // 쿠키 전체 클래스
+ │   │   ├── CCottoncandyCookie.cpp  // 솜사탕맛 쿠키
+ │   │   ├── CPistachioCookie.cpp    // 피스타치오맛 쿠키
+ │   │   ├── CPitayaCookie.cpp       // 용과맛 쿠키
+ │   │
+ │   ├── Mobs                        // 몹 관련 클래스
+ │   │   ├── CMob.cpp                // 몹 전체 클래스
+ │   │   ├── CYellowBee.cpp          // 노란색 벌
+ │   │
+ │   ├── CookieMove.cpp              // 쿠키 이동 관련 로직
+ │   ├── DoubleBuffering.cpp         // 더블 버퍼링 관련 로직 (이미지 로드 및 출력 관련)
+ │   ├── main.cpp                    // 프로그램 진입점
+ │
+ ├── 헤더 파일
+ │   ├── Cookies                     // 쿠키 캐릭터 관련 헤더
+ │   │   ├── CBraveCookie.h          // 용감한 쿠키
+ │   │   ├── CCookie.h               // 쿠키 전체 헤더
+ │   │   ├── CCottoncandyCookie.h    // 솜사탕맛 쿠키
+ │   │   ├── CPistachioCookie.h      // 피스타치오맛 쿠키
+ │   │   ├── CPitayaCookie.h         // 용과맛 쿠키
+ │   │
+ │   ├── Mobs                        // 몹 관련 헤더
+ │   │   ├── CMob.h                  // 몹 전체 헤더
+ │   │   ├── CYellowBee.h            // 노란색 벌
+ │   │
+ │   ├── CookieMove.h                // 쿠키 이동 관련 헤더
+ │   ├── DoubleBuffering.h           // 더블 버퍼링 관련 헤더 (이미지 로드 및 출력 관련)
+```
+ 
 ## [🧑‍💻](#index) 코드 <a name = "code"></a>
-
-
