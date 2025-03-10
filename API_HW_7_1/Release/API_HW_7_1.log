@@ -1,8 +1,50 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  CBraveCookie.cpp
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CBraveCookie.cpp(13,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CBraveCookie.cpp(14,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CBraveCookie.cpp(15,15): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CBraveCookie.cpp(16,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CCookie.cpp
+  CCottoncandyCookie.cpp
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CCottoncandyCookie.cpp(13,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CCottoncandyCookie.cpp(14,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CCottoncandyCookie.cpp(15,15): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CCottoncandyCookie.cpp(16,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CMob.cpp
   CookieMove.cpp
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CookieMove.cpp(17,2): warning C4091: 'extern ': 변수를 선언하지 않으면 'GameState' 왼쪽은 무시됩니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CookieMove.cpp(32,34): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CPistachioCookie.cpp
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CPistachioCookie.cpp(13,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CPistachioCookie.cpp(14,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CPistachioCookie.cpp(15,15): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CPistachioCookie.cpp(16,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CPitayaCookie.cpp
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CPitayaCookie.cpp(13,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CPitayaCookie.cpp(14,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CPitayaCookie.cpp(15,15): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CPitayaCookie.cpp(16,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CYellowBee.cpp
+  DoubleBuffering.cpp
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(102,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(102,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(111,55): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\DoubleBuffering.cpp(111,31): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(89,46): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(146,48): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(146,96): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(164,55): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(173,37): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(491,14): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(418,8): warning C4101: 'strBuff' :참조되지 않은 지역 변수입니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(625,189): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(625,121): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(625,89): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   코드를 생성하고 있습니다.
-  2 of 51 functions ( 3.9%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CMob.cpp(44): warning C4715: 'CMob::GetStat': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\CCookie.cpp(54): warning C4715: 'CCookie::GetStat': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  All 57 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   코드를 생성했습니다.
-  API_HW_7_1.vcxproj -> C:\DH\HW\API\API_HW_7_1 (4)\API_HW_7_1.exe
+  API_HW_7_1.vcxproj -> C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1.exe
