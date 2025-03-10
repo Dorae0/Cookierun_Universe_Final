@@ -4,6 +4,9 @@
 
 ![image](https://github.com/user-attachments/assets/de5d859c-7d4c-48b3-b896-d3967a6d4870)
 
+<br>
+
+## 🎨 스크린샷 <a name = "screenshots"></a>
 
 ## 🚩 게임 컨셉 <a name = "idea"></a>
 - 간단한 디펜스 게임입니다.
@@ -38,7 +41,7 @@
 ![image](https://github.com/user-attachments/assets/0c6175ec-d489-472d-abf3-23bef71bb22a)
 <br><br><br>
 
-## 🖥️ 기술 스택
+## 🖥️ 기술 스택 <a name = "stacks"></a>
 #### Common stacks
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"> <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white">
 
