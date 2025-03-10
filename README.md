@@ -14,7 +14,10 @@
 ### 1. branch를 download로 변경
 ![image](https://github.com/user-attachments/assets/1827760d-8eb3-493d-bba8-8ab3d8488606)
 
-### 2. 
+### 2. Code > Download ZIP 클릭
+![image](https://github.com/user-attachments/assets/6fdf67b9-adba-46bf-98af-03fbb5291d46)
+
+
 
 ### Technologies
 #### Common stacks
