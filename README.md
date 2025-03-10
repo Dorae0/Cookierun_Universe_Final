@@ -13,14 +13,27 @@
 
 ### 1. branch를 download로 변경
 ![image](https://github.com/user-attachments/assets/1827760d-8eb3-493d-bba8-8ab3d8488606)
+<br>
 
 ### 2. Code > Download ZIP 클릭
 ![image](https://github.com/user-attachments/assets/1655ada0-40a9-49ab-af6f-da77cd5ef3a1)
+<br>
 
 ### 3. 압축 해제 후 Cookierun Universe 실행
 ![image](https://github.com/user-attachments/assets/4dbd221b-d927-4c4e-a068-6af494c69eaf)
+<br>
 
-### 3 - 1. 
+### 3 - 1. Windows PC 보호가 뜬다면?
+![image](https://github.com/user-attachments/assets/fab9402c-a56d-45da-aba0-a6fc256d1225)
+<br>
+
+### 3 - 2. "추가 정보" 클릭
+![제목 없음](https://github.com/user-attachments/assets/40f1aefd-f379-42e6-b1c7-ece20842f2f0)
+<br>
+
+### 3 - 3. "실행" 클릭
+![image](https://github.com/user-attachments/assets/0c6175ec-d489-472d-abf3-23bef71bb22a)
+<br>
 
 ### Technologies
 #### Common stacks
