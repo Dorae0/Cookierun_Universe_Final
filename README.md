@@ -9,7 +9,12 @@
 
 <br>
 
-## 🎮 다운로드 <a name = "download"></a>
+## 🎮 다운로드 방법 <a name = "download"></a>
+
+### 1. branch를 download로 변경
+![image](https://github.com/user-attachments/assets/1827760d-8eb3-493d-bba8-8ab3d8488606)
+
+### 2. 
 
 ### Technologies
 #### Common stacks
