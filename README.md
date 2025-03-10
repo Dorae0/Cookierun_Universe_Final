@@ -8,6 +8,13 @@
 
 ## 🎨 스크린샷 <a name = "screenshots"></a>
 
+<br>
+
+![image](https://github.com/user-attachments/assets/6d444c66-b9e5-434f-8aad-36c597a72f3b)
+<br>
+
+<br>
+
 ## 🚩 게임 컨셉 <a name = "idea"></a>
 - 간단한 디펜스 게임입니다.
 - 쿠키런 IP를 차용해서 제작했습니다.
