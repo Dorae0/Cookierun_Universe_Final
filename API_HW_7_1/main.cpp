@@ -297,8 +297,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 			if (g_objTower.nAni > 4) g_objTower.nAni = 0;
 
 			// 쿠키, 몹 최선방 몹 정하는 로직
-			CheckCookieVanguard();
-			CheckMobVanguard();
 
 			// Attack 상태 로직
 
@@ -371,7 +369,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 
 			for (int i = 0; i < 101; i++)
 			{
-				if (Cookies[i] != NULL && Cookies[i]->GetStat(STATTYPE_COOKIESTATE) >= 0 && Cookies[i]->GetStat(STATTYPE_FAINTANI) == g_objCookie[Cookies[i]->GetStat(STATTYPE_COOKIETYPE)].nAniFaintMax)
+				if (Cookies[i] != NULL && Cookies[i]->GetStat(STATTYPE_COOKIESTATE) >= 0 && Cookies[i]->GetStat(STATTYPE_COOKIESTATE) <= STATTYPE_MAX && Cookies[i]->GetStat(STATTYPE_FAINTANI) == g_objCookie[Cookies[i]->GetStat(STATTYPE_COOKIETYPE)].nAniFaintMax)
 				{
 					delete Cookies[i];
 					Cookies[i] = NULL;
@@ -729,6 +727,7 @@ void PutCookie(HWND hWnd, int nBgX, int nBGroundX)
 	{
 		if (Cookies[i] != NULL)
 		{
+			bRval = TRUE;
 			int puty = y;
 			if (Cookies[i]->GetStat(STATTYPE_COOKIETYPE) == COOKIETYPE_PISTACHIOCOOKIE) puty = y - 18;
 			if (Cookies[i]->GetStat(STATTYPE_COOKIETYPE) == COOKIETYPE_PITAYACOOKIE) puty = y + 22;
@@ -736,10 +735,12 @@ void PutCookie(HWND hWnd, int nBgX, int nBGroundX)
 			{
 			case STATE_IDLE:
 				bRval = __PutStretchSprite(g_sfBack.dcSurface, Cookies[i]->GetStat(STATTYPE_X), puty, &(g_objCookie[Cookies[i]->GetStat(STATTYPE_COOKIETYPE)].g_sfCookieWalk[g_objCookie[Cookies[i]->GetStat(STATTYPE_COOKIETYPE)].nAniWalk]), 0.5f, 0.5f);
+				if (!bRval) ::OutputDebugString("__PutSprite - fail");
 				break;
 			case STATE_ATTACK:
 			case STATE_ATTACKBOSS:
 				bRval = __PutStretchSprite(g_sfBack.dcSurface, Cookies[i]->GetStat(STATTYPE_X), puty, &(g_objCookie[Cookies[i]->GetStat(STATTYPE_COOKIETYPE)].g_sfCookieAttack[g_objCookie[Cookies[i]->GetStat(STATTYPE_COOKIETYPE)].nAniAttack]), 0.5f, 0.5f);
+				if (!bRval) ::OutputDebugString("__PutSprite - fail");
 				/*if (Cookies[i]->GetStat(STATTYPE_COOKIETYPE) == COOKIETYPE_COTTONCANDYCOOKIE)
 				{
 					if(MobVanguard != -1)
@@ -751,9 +752,10 @@ void PutCookie(HWND hWnd, int nBgX, int nBGroundX)
 				break;
 			case STATE_FAINT:
 				bRval = __PutStretchSprite(g_sfBack.dcSurface, Cookies[i]->GetStat(STATTYPE_X), puty, &(g_objCookie[Cookies[i]->GetStat(STATTYPE_COOKIETYPE)].g_sfCookieFaint[g_objCookie[Cookies[i]->GetStat(STATTYPE_COOKIETYPE)].nAniFaint]), 0.5f, 0.5f);
+				if (!bRval) ::OutputDebugString("__PutSprite - fail");
 				break;
 			}
-			if (!bRval)	::OutputDebugString("__PutSprite - fail");
+			if (!bRval) ::OutputDebugString("__PutSprite - fail");
 		}
 	}
 }
