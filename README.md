@@ -8,12 +8,16 @@
 
 ## 📝 [목차](#index) <a name = "index"></a>
 
+### 각 항목의 이모지를 누르면 목차로 돌아올 수 있습니다!
+
 - [🎨 스크린샷](#screenshots)
 - [🚩 게임 컨셉](#concept)
 - [🎮 다운로드 방법](#download)
 - [🖥️ 기술 스택](#stacks)
 
-## 🎨 스크린샷 <a name = "screenshots"></a>
+<br>
+
+## [🎨](#index) 스크린샷 <a name = "screenshots"></a>
 
 <br>
 
@@ -35,14 +39,19 @@
 ![image](https://github.com/user-attachments/assets/380f3bec-ba75-40b7-af51-fcbbdcfba7ec)
 <br><br>
 
-## 🚩 게임 컨셉 <a name = "concept"></a>
+## [🚩](#index) 게임 컨셉 <a name = "concept"></a>
+
+<br>
+
 - 간단한 디펜스 게임입니다.
 - 쿠키런 IP를 차용해서 제작했습니다.
 - Windows API를 사용하여 제작했습니다.
 
 <br>
 
-## 🎮 다운로드 방법 <a name = "download"></a>
+## [🎮](#index) 다운로드 방법 <a name = "download"></a>
+
+<br>
 
 ### 1. branch를 download로 변경
 ![image](https://github.com/user-attachments/assets/1827760d-8eb3-493d-bba8-8ab3d8488606)
@@ -68,7 +77,10 @@
 ![image](https://github.com/user-attachments/assets/0c6175ec-d489-472d-abf3-23bef71bb22a)
 <br><br><br>
 
-## 🖥️ 기술 스택 <a name = "stacks"></a>
+## [🖥️](#index) 기술 스택 <a name = "stacks"></a>
+
+<br>
+
 #### Common stacks
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"> <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white">
 
