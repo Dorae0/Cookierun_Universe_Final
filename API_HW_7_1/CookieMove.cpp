@@ -1,7 +1,7 @@
 #include "CookieMove.h"
 #include "CCookie.h"
 
-extern int x, y, Vy, Ay, Cstate, GroundY, Cost, GameState, EnterState, EnterCooldown, NumState;;
+extern int x, y, Vy, Ay, Cstate, GroundY, Cost, GameState, EnterState, EnterCooldown, NumState, GameRound, maxGameRound;
 extern int PowerUpStack[4];
 extern COOLDOWN		CooldownState[10];
 extern enum GameState
@@ -13,6 +13,7 @@ extern enum GameState
 	GSTATE_WIN,
 	GSTATE_LOSE,
 	GSTATE_OPTIONSELECT,
+	GSTATE_GAMECLEAR,
 	GSTATE_MAX
 };
 
@@ -48,7 +49,14 @@ void __KeyProc(HWND hWnd)
 	{
 		if (EnterState == 0)
 		{
-			GameState = GSTATE_OPTIONSELECT;
+			if (GameRound > maxGameRound)
+			{
+				GameState = GSTATE_GAMECLEAR;
+				SetWindowPos(hWnd, NULL, 50, 50, 915, 645, 0);
+			}
+			else
+				GameState = GSTATE_OPTIONSELECT;
+			
 			EnterState = 1;
 		}
 	}
@@ -59,6 +67,15 @@ void __KeyProc(HWND hWnd)
 		{
 			GameState = GSTATE_MAIN;
 			SetWindowPos(hWnd, NULL, 50, 50, 915, 645, 0);
+			EnterState = 1;
+		}
+	}
+
+	if (GetKeyState(VK_RETURN) & 0x80 && GameState == GSTATE_GAMECLEAR)
+	{
+		if (EnterState == 0)
+		{
+			GameState = GSTATE_MAIN;
 			EnterState = 1;
 		}
 	}

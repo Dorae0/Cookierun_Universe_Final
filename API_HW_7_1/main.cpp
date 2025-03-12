@@ -38,10 +38,12 @@ int Cost;
 int CookieVanguard = -1, MobVanguard = -1;
 
 int GameRound = 1;				// 게임 라운드
+int maxGameRound = 1;			// 최대 라운드
 int PowerUpStack[4];			// 파워업 스택
 
 SURFACEINFO g_sfBack;			// 버퍼 표면
 SURFACEINFO g_sfStart;			// 시작 화면
+SURFACEINFO g_sfClear[2];			// 클리어 화면
 SURFACEINFO g_sfStartHUD[10];	// 시작 화면 요소들
 SURFACEINFO g_sfBG;				// 배경 표면 
 SURFACEINFO g_sfGround;			// 땅 표면
@@ -83,11 +85,13 @@ enum GameState
 	GSTATE_WIN,
 	GSTATE_LOSE,
 	GSTATE_OPTIONSELECT,
+	GSTATE_GAMECLEAR,
 	GSTATE_MAX
 };
 
 void __sleep(int iMilliseconds) { int iStart = GetTickCount64();	while ((int)(GetTickCount64() - iStart) < iMilliseconds) {} }
 void PutStart();
+void PutClear();
 void PutBackGround();
 void PutCostBar();
 void PutCookieButton();
@@ -95,6 +99,7 @@ void PutCookie(HWND hWnd, int nBgX, int nBGroundX);
 void PutMob();
 void PutBoss();
 void PutTower();
+bool IsValidCookie(CCookie* cookie);
 void CheckCookieVanguard();
 void CheckMobVanguard();
 void WinLose();
@@ -252,7 +257,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 					for (int j = 0; j < 101; j++)
 						if (Cookies[j] != NULL && Cookies[j]->GetStat(STATTYPE_COOKIESTATE) == STATE_FAINT)
 						{
-							delete Cookies[i];
+							delete Cookies[j];
 							Cookies[j] = NULL;
 						}
 				}
@@ -369,7 +374,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 
 			for (int i = 0; i < 101; i++)
 			{
-				if (Cookies[i] != NULL && Cookies[i]->GetStat(STATTYPE_COOKIESTATE) >= 0 && Cookies[i]->GetStat(STATTYPE_COOKIESTATE) <= STATTYPE_MAX && Cookies[i]->GetStat(STATTYPE_FAINTANI) == g_objCookie[Cookies[i]->GetStat(STATTYPE_COOKIETYPE)].nAniFaintMax)
+				if (IsValidCookie(Cookies[i]) && Cookies[i]->GetStat(STATTYPE_FAINTANI) == g_objCookie[Cookies[i]->GetStat(STATTYPE_COOKIETYPE)].nAniFaintMax)
 				{
 					delete Cookies[i];
 					Cookies[i] = NULL;
@@ -581,6 +586,16 @@ void CALLBACK MainLoopProc(HWND hWnd, UINT message, UINT iTimerID, DWORD dwTime)
 			}
 			ReleaseDC(hWnd, dcScreen);
 		break;
+	case GSTATE_GAMECLEAR:
+		dcScreen = GetDC(hWnd);
+		{
+			PutClear();
+
+			//// 출력 완료
+			__CompleteBlt(dcScreen, &g_sfBack);
+		}
+		ReleaseDC(hWnd, dcScreen);
+		break;
 	}
 }
 
@@ -598,6 +613,21 @@ void PutStart()
 	if (!bRval)	::OutputDebugString("__PutSprite - fail");
 
 	bRval = __PutStretchSprite(g_sfBack.dcSurface, 270, 500, &g_sfStartHUD[3], 0.5f, 0.5f);
+	if (!bRval)	::OutputDebugString("__PutSprite - fail");
+}
+
+void PutClear()
+{
+	BOOL bRval;
+
+	g_sfClear[0].crColorKey = RGB(0, 255, 255);
+
+	bRval = __PutStretchSprite(g_sfBack.dcSurface, 0, 0, &g_sfClear[0], 0.3f, 0.3f);
+	if (!bRval)	::OutputDebugString("__PutSprite - fail");
+
+	g_sfClear[1].crColorKey = RGB(0, 255, 255);
+
+	bRval = __PutStretchSprite(g_sfBack.dcSurface, 310, 430, &g_sfClear[1], 0.5f, 0.5f);
 	if (!bRval)	::OutputDebugString("__PutSprite - fail");
 }
 
@@ -804,6 +834,21 @@ void PutTower()
 	}
 }
 
+bool IsValidCookie(CCookie* cookie)
+{
+	if (cookie == NULL) return false;
+
+	for (int i = 0; i < STATTYPE_MAX; i++)
+	{
+		if (i == STATTYPE_HP || i == STATTYPE_X) continue;
+		int currentType = cookie->GetStat(i);
+		if (currentType < 0) return false;
+	}
+
+	return true;
+}
+
+
 void CheckCookieVanguard()
 {
 	for (int i = 0; i < 101; i++)
@@ -888,6 +933,8 @@ void RoundInit()
 			Mobs[i] = NULL;
 		}
 	}
+	for (int i = COOKIETYPE_BRAVECOOKIE; i < COOKIETYPE_MAX; i++)
+		CooldownState[i].m_nCooldownNow = 0;
 }
 
 void RoundReset()
@@ -909,6 +956,8 @@ void RoundReset()
 			Mobs[i] = NULL;
 		}
 	}
+	for (int i = COOKIETYPE_BRAVECOOKIE; i < COOKIETYPE_MAX; i++)
+		CooldownState[i].m_nCooldownNow = 0;
 }
 
 void PutPowerUPs()

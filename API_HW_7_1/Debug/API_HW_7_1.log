@@ -1,12 +1,12 @@
 ﻿  main.cpp
-C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(89,46): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(146,48): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(146,96): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(164,55): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(173,37): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(491,14): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(418,8): warning C4101: 'strBuff' :참조되지 않은 지역 변수입니다.
-C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(625,189): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(625,121): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(625,89): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(92,46): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(151,48): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(151,96): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(169,55): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(178,37): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(496,14): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(423,8): warning C4101: 'strBuff' :참조되지 않은 지역 변수입니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(655,189): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(655,121): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\API_HW_7_1\main.cpp(655,89): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   API_HW_7_1.vcxproj -> C:\Users\Dorae\Documents\GitHub\Cookierun_Universe_Final\Debug\API_HW_7_1.exe

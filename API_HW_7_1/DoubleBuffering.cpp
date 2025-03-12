@@ -7,6 +7,7 @@ extern int BossState;
 
 extern SURFACEINFO g_sfStart;
 extern SURFACEINFO g_sfStartHUD[10];
+extern SURFACEINFO g_sfClear[2];
 extern SURFACEINFO g_sfBack;	// 버퍼 표면
 extern SURFACEINFO g_sfBG;		// 배경 표면 
 extern SURFACEINFO g_sfGround;	// 땅 표면
@@ -207,6 +208,16 @@ void __Init(HDC dcScreen)
 	__SetImgSurface(&g_sfStart);
 	g_sfStart.hBmp = __MakeDDBFromDIB(dcScreen, "Drawings\\Map\\StartScreen.bmp");
 	__LoadSurface(dcScreen, &g_sfStart);
+
+	// 클리어 그림 로드
+	__SetImgSurface(&g_sfClear[0]);
+	g_sfClear[0].hBmp = __MakeDDBFromDIB(dcScreen, "Drawings\\Map\\ClearScreen.bmp");
+	__LoadSurface(dcScreen, &g_sfClear[0]);
+
+	// 클리어 문구 로드
+	__SetImgSurface(&g_sfClear[1]);
+	g_sfClear[1].hBmp = __MakeDDBFromDIB(dcScreen, "Drawings\\Map\\GameClear.bmp");
+	__LoadSurface(dcScreen, &g_sfClear[1]);
 
 	// 배경 로드
 	__SetImgSurface(&g_sfBG);
