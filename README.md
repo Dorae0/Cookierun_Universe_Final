@@ -121,4 +121,4 @@
  │   ├── DoubleBuffering.h           // 더블 버퍼링 관련 헤더 (이미지 로드 및 출력 관련)
 ```
  
-## [🧑‍💻](#index) 주요요 코드 <a name = "code"></a>
+## [🧑‍💻](#index) 주요 코드 <a name = "code"></a>
