@@ -15,7 +15,7 @@
 - [🎮 다운로드 방법](#download)
 - [🖥️ 기술 스택](#stacks)
 - [⚙️ 프로젝트 아키텍처](#architecture) 
-- [🧑‍💻 코드](#code)
+- [🧑‍💻 주요 코드](#code)
 
 <br>
 
@@ -121,4 +121,4 @@
  │   ├── DoubleBuffering.h           // 더블 버퍼링 관련 헤더 (이미지 로드 및 출력 관련)
 ```
  
-## [🧑‍💻](#index) 코드 <a name = "code"></a>
+## [🧑‍💻](#index) 주요요 코드 <a name = "code"></a>
