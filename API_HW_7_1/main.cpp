@@ -38,7 +38,7 @@ int Cost;
 int CookieVanguard = -1, MobVanguard = -1;
 
 int GameRound = 1;				// 게임 라운드
-int maxGameRound = 1;			// 최대 라운드
+int maxGameRound = 20;			// 최대 라운드
 int PowerUpStack[4];			// 파워업 스택
 
 SURFACEINFO g_sfBack;			// 버퍼 표면
